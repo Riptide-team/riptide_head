@@ -30,7 +30,7 @@
             <String value=""/>
         </Property>
         <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-            <String value="2023-04-13T09:28:29Z"/>
+            <String value="2023-04-13T11:56:05Z"/>
         </Property>
         <Property name="License" type="App::PropertyString" status="1">
             <String value="All rights reserved"/>
@@ -4240,16 +4240,13 @@ So
 +2 0 *
 
 +1 1 
-31637|31637|A|GuiDocument.xml
+31514|31514|A|GuiDocument.xml
 <?xml version='1.0' encoding='utf-8'?>
 <!--
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" HasExpansion="1">
-    <Expand  count="2">
-        <Expand name="b_riptide_sparton_bracket_001_"/>
-        <Expand name="b_riptide_head_top_001_"/>
-    </Expand>
+    <Expand />
     <ViewProviderData Count="15">
         <ViewProvider name="planeCoincident_001_mirror" expanded="0">
             <Properties Count="6" TransientCount="0">
@@ -4339,7 +4336,7 @@ So
                 </Property>
             </Properties>
         </ViewProvider>
-        <ViewProvider name="b_riptide_head_top_001_" expanded="1">
+        <ViewProvider name="b_riptide_head_top_001_" expanded="0">
             <Properties Count="24" TransientCount="0">
                 <Property name="AngularDeflection" type="App::PropertyAngle" status="1">
                     <Float value="28.5000000000000000"/>
@@ -4415,7 +4412,7 @@ So
                 </Property>
             </Properties>
         </ViewProvider>
-        <ViewProvider name="b_riptide_sparton_bracket_001_" expanded="1">
+        <ViewProvider name="b_riptide_sparton_bracket_001_" expanded="0">
             <Properties Count="24" TransientCount="0">
                 <Property name="AngularDeflection" type="App::PropertyAngle" status="1">
                     <Float value="28.5000000000000000"/>
@@ -4744,7 +4741,7 @@ So
             </Properties>
         </ViewProvider>
     </ViewProviderData>
-    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position 59.333752 36.061951 -97.40081&#10;  orientation 0.14729016 -0.97710007 -0.15356125  3.8049068&#10;  nearDistance 16.812471&#10;  farDistance 170.39389&#10;  aspectRatio 1&#10;  focalDistance 72.391388&#10;  height 123.17025&#10;&#10;}&#10;"/>
+    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position -14.148436 30.604145 -61.095627&#10;  orientation -0.026245313 -0.96435463 -0.26330861  2.6307592&#10;  nearDistance -36.316772&#10;  farDistance 119.57178&#10;  aspectRatio 1&#10;  focalDistance 72.391388&#10;  height 142.15257&#10;&#10;}&#10;"/>
 </Document>
 
 76|56|B|DiffuseColor
